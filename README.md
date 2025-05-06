@@ -50,12 +50,12 @@
 ### 📂 Featured Projects
 
 - 🔗 [**Mockup Wizard**](https://github.com/YoussefElbasha/MockupWizard) – AI-powered 3D mockup generator    
-- 🎟️ **Tickets22** – [Private Repo] Microservices-based ticketing system for FIFA World Cup 2022  
+- 🎟️ [**Tickets22**](https://github.com/ssary/WorldCup-tickets) - Microservices-based ticketing system for FIFA World Cup 2022  
   - Built modular services using **Express.js**, **Kafka**, and **MongoDB**.  
   - Integrated **event-driven architecture** for booking, event, and authentication services.  
   - Employed async messaging for scalable distributed systems.
-- 🚇 **Cairo Metro** – [Live Demo](https://cairometro.baraa.app/)  
+- 🚇 [**Cairo Metro**](https://github.com/skittlesaur/cairometro) – [Live Demo](https://cairometro.baraa.app/)  
   - Contributed to building a responsive ticketing interface using **React**, **Next.js**, and **TailwindCSS**.  
   - Developed responsive UI components with a strong focus on user experience and accessibility.  
   - Integrated UI components with RESTful backend services for seamless data handling.
-- 📦 **ChopLink** – RESTful URL shortener with Node.js & MongoDB
+- 📦 [**ChopLink**](https://github.com/momenyasser01/chop-link) – RESTful URL shortener with Node.js & MongoDB
