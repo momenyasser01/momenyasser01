@@ -58,4 +58,4 @@
   - Contributed to building a responsive ticketing interface using **React**, **Next.js**, and **TailwindCSS**.  
   - Developed responsive UI components with a strong focus on user experience and accessibility.  
   - Integrated UI components with RESTful backend services for seamless data handling.
-- 📦 [**ChopLink**](https://github.com/momenyasser01/chop-link) – RESTful URL shortener with React, Next.js, TailwindCSS, Node.js & MongoDB
+- 📦 [**ChopLink**](https://github.com/momenyasser01/chop-link) – RESTful URL shortener with **React**, **Next.js**, **TailwindCSS**, **Node.js** and **MongoDB**
