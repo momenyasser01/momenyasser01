@@ -11,8 +11,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 Computer Science graduate (Software Engineering Major)
-- 💻 Backend Developer with experience in **Node.js**, **Express.js**, **Prisma**, **PostgreSQL**, and **MongoDB**
-- 🚀 Passionate about building scalable backend systems and APIs
+- 💻 Full-Stack Developer with experience in **Node.js**, **Express.js**, **Prisma**, **PostgreSQL**, **MongoDB**, **Next.js**, **React**, and **TailwindCSS**
+- 🚀 Passionate about building full-stack applications with a focus on delivering seamless user experiences
 
 ---
 
